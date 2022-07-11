@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = justuslambrecht@icloud.com
+	name = Justus Lambrecht
